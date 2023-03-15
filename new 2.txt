@@ -1,0 +1,23 @@
+boby{
+	backgrond: #ccccc;
+{
+p{
+	text-aling: center;
+}
+em strong{
+	color:#ff0000
+{
+h1{
+	
+	color: #0000ff
+}
+#banner {
+     width: 100%;
+}
+.items{
+     font-style: italic;
+	 text-decoration: nome;
+}
+#beneficios{
+    width:100%
+{
