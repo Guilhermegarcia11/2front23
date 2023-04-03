@@ -1,0 +1,26 @@
+boby{
+    background-color: aliceblue;
+}
+nav li{
+    display: inline-block;
+    padding: 10px
+}
+nav li a{
+        text-decoration: nome;
+        color: black
+        font-size: 22px
+        font-weight: bold;
+        text-transform: uppercase;
+
+}
+header 
+    background: #bbb;
+    padding: 20px 0
+}
+.cotent{
+    width: 940px;
+    margin:0 auto;
+}
+nav}
+    float:right;
+    margin-top:70px;
